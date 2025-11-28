@@ -1,0 +1,6 @@
+{
+  "test_output.txt": true,
+  "tests/test_data_loader.py::test_load_data": true,
+  "tests/test_data_loader.py::test_load_data_invalid_file": true,
+  "tests/test_data_loader.py::test_load_data_missing_values": true
+}

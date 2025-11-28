@@ -1,0 +1,14 @@
+[general]
+email = "your_email@example.com"
+# You can set the theme of your Streamlit app here
+theme = "dark"
+
+[server]
+# Set the server to run on localhost
+headless = true
+port = 8501
+enableCORS = false
+
+[global]
+# Set the default layout of the app
+layout = "centered"

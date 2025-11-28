@@ -1,0 +1,6 @@
+[
+  "tests/test_data_loader.py::test_load_data",
+  "tests/test_data_loader.py::test_load_data_invalid_file",
+  "tests/test_data_loader.py::test_load_data_missing_values",
+  "tests/test_map_performance.py::test_map_generation"
+]
